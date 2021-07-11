@@ -35,7 +35,7 @@ nav {
       &:last-child {
         background-color: white;
         color: #050505;
-        padding: 10px 20px;
+        padding: 10px 30px;
         border-radius: 7px;
       }
     }
@@ -60,14 +60,14 @@ header {
 
   .btn {
     background-color: #59b97e;
-    padding: 15px 30px;
+    padding: 15px 40px;
     border: 0;
     border-radius: 8px;
     cursor: pointer;
   }
 }
 section.second-section {
-  div {
+  section {
     width: 75%;
     margin: auto;
     padding: 40px 0;
@@ -187,7 +187,7 @@ section.second-section {
   }
   button {
     background-color: #59b97e;
-    padding: 15px 25px;
+    padding: 15px 40px;
     border: none;
     border-radius: 5px;
   }
@@ -195,6 +195,6 @@ section.second-section {
 footer {
   text-align: center;
   padding: 10px;
-  background-color: #8a8f98;
-  color: #050505;
+  background-color: #1d1d1d;
+  color: white;
 }
